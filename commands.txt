@@ -1,0 +1,8 @@
+cd
+ls
+rm
+pwd
+
+GIT
+clone
+push
